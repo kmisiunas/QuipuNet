@@ -7,9 +7,9 @@ Nanopore sensing is a versatile technique for the analysis of molecules on the s
 
 ## Full article
 
-Published: Nano Letters (todo) 
+Published: [Nano Letters (2018)](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b01709) 
 
-Preprint: https://arxiv.org/abs/1803.10653
+arXiv: https://arxiv.org/abs/1803.10653
 
 Code repository: [github.com/kmisiunas/QuipuNet](https:github.com/kmisiunas/QuipuNet)
 
